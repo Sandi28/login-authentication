@@ -1,0 +1,94 @@
+.body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: serif;
+  }
+  
+  .c{
+    background-color: #836953;
+    font-style: italic;
+    color: aliceblue;
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .signup-box {
+    width: 360px;
+    height: 500px;
+    margin: auto;
+    margin-top: 90px;
+    background-color: rgb(252, 233, 192);
+    border-radius: 3px;
+  }
+  
+  
+  .login-box {
+    width: 360px;
+    height: 420px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 3px;
+    background-color: rgb(252, 233, 192);
+  }
+  
+  h1 {
+    background-color: #836953;
+    text-align: center;
+ padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  
+  form label {
+    display: flex;
+   color: #321414 ;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+   
+    border: 3px solid rgb(156, 156, 156);
+    border-radius: 6px;
+    background-color: #f1e5cd;
+    border-style: groove;
+    outline: none;
+  }
+  button {
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: #462525;
+    background-color: #987654;
+    color: rgb(245, 239, 239);
+    font-size: 18px;
+    transition: 0.2s;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: #321414 ;
+    font-size: 15px;
+    margin-top:-10px;
+  }
+  .para-2 a {
+    color: #321414 ;
+  }
